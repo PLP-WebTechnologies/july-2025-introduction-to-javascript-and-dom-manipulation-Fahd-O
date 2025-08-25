@@ -1,0 +1,25 @@
+body
+{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1
+{
+    color: darkblue;
+}
+
+button
+{
+    margin: 10px 0;
+    padding: 8px 12px;
+    cursor: pointer;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+#message
+{
+    color: green;
+    margin: 5px 0;
+}
